@@ -14,7 +14,7 @@ function App() {
     <div className="app">
       <Navbar />
       <main>
-        <h1 className="page-title">Geek Foods Quotes</h1>
+        <h1 className="page-title">Geek Food Quotes</h1>
         <QuoteContainer initialQuotes={quotes} />
       </main>
       <Footer/>
